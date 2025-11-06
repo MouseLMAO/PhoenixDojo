@@ -23,3 +23,6 @@ Pass
 Allen Hulbert
 
 Edit added by [Logan Baird]
+
+## Collaboration Acknowledgment
+This project was reviewed and edited by Logan Baird on GitHub.
