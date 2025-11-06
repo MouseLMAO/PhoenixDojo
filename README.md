@@ -1,6 +1,6 @@
 # PhoenixDojo
 # Lab: Students Grade System
-This program stores and displays students information, including their namse, assignment grades, midterm grades, final grades, and whether or not they passed
+This program stores and displays students information, including their names, assignment grades, midterm grades, final grades, and whether or not they passed
 ## How to run
 1. Open the program in your IDE
 2. Enter how many students information you wish to enter
@@ -18,3 +18,8 @@ Assignment: 100
 Midterm: 100
 Final: 100
 Pass
+
+# Author
+Allen Hulbert
+
+Edit added by [Logan Baird]
